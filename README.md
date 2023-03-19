@@ -23,7 +23,7 @@ Python, catboost, lightgbm, bert, hugging-face, scipy, pandas, numpy, matplotlib
 
 ### Данные
 
-Данные находятся по ссылке: 
+Данные находятся по ссылке: https://drive.google.com/drive/folders/1hW-hUsLeVhFdu5_QSRWwYgyoxXrvN5cc?usp=share_link
 
 - auxiliary_data.rar - дополнительные данные, полученные во время работы  
 - data.rar - исходные данные  
