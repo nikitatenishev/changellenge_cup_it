@@ -17,7 +17,7 @@
 
 ---
 
-...
+Python, catboost, lightgbm, bert, huggin-face, scipy, pandas, numpy, matplotlib, seaborn, sklearn
 
 
 
