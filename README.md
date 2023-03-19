@@ -25,9 +25,9 @@ Python, catboost, lightgbm, bert, hugging-face, scipy, pandas, numpy, matplotlib
 
 Данные находятся по ссылке: 
 
-auxiliary_data.rar - дополнительные данные, полученные во время работы
-data.rar - исходные данные
-processed_data.rar - исходные данные + сгенерированные фичи
+- auxiliary_data.rar - дополнительные данные, полученные во время работы  
+- data.rar - исходные данные  
+- processed_data.rar - исходные данные + сгенерированные фичи
 
 ---
 
